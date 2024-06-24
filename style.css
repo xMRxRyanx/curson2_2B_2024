@@ -11,4 +11,8 @@ body {
 *{
   margin: 0;
   padding: 0;
+} 
+.ptincipal{
+background-image: url(Background.png);
+
 }
