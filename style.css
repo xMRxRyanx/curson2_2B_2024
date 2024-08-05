@@ -23,4 +23,5 @@ background-size: contain;
 .container_botao{
  background-color: var(--botão-azul);
  border-radius: 10px;
+ padding: 1em;
 }
