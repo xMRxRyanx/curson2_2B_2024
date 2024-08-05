@@ -22,6 +22,6 @@ background-size: contain;
 }
 .container_botao{
  background-color: var(--botão-azul);
- border-radius: 10px;
+ border-radius: 5px;
  padding: 1em;
 }
